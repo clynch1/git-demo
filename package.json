@@ -1,7 +1,7 @@
 {
   "name": "git-demo",
   "version": "1.0.0",
-  "description": "this is a git demo",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/clynch1/git-demo.git"
   },
-  "keywords": [
-    "git-demo"
-  ],
-  "author": "connor",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/clynch1/git-demo/issues"
